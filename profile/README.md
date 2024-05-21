@@ -1,4 +1,5 @@
-![white_logo_dark_background](https://github.com/taya-sh/.github/assets/3685417/274bbaad-79f2-45ca-9a0f-2aa8715838c2)
+![logo_white_background](https://github.com/taya-sh/.github/assets/3685417/25f87053-e08a-4eea-8c95-4866515a47d8)
+
 
 ### Registro de Marca
 Temos o prazer de informar que nossa marca é oficialmente registrada no **Instituto Nacional da Propriedade Industrial (INPI)**. Esse registro garante que nossos produtos e serviços estão protegidos e que nossa marca é reconhecida legalmente.
