@@ -5,7 +5,8 @@ Temos o prazer de informar que nossa marca é oficialmente registrada no **Insti
 
 ### Detalhes do Registro:
 
-Número do Pedido: 5361366
-Instituição: Instituto Nacional da Propriedade Industrial (INPI)
-Link para Consulta: [Consulta de Marca no INPI](https://busca.inpi.gov.br/pePI/servlet/MarcasServletController?Action=detail&CodPedido=5361366)
+- Número do Pedido: 5361366
+- Instituição: Instituto Nacional da Propriedade Industrial (INPI)
+- Link para Consulta: [Consulta de Marca no INPI](https://busca.inpi.gov.br/pePI/servlet/MarcasServletController?Action=detail&CodPedido=5361366)
+
 O registro da marca é um passo importante para garantir a autenticidade e a qualidade dos nossos produtos/serviços, reforçando nosso compromisso com a inovação e a excelência.
